@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 96" role="img" aria-labelledby="title desc">
+<title id="title">Spec Sentry</title><desc id="desc">Original geometric identity for Surface implementation-changing ambiguities in specs.</desc>
+<rect width="80" height="80" x="8" y="8" rx="18" fill="#245B8C"/>
+<path d="M40 13l25 10v18c0 15-25 28-25 28S15 56 15 41V23z M31 38l7 7 14-17" transform="translate(8 8)" fill="none" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="108" y="57" fill="#245B8C" font-family="Verdana,Arial,sans-serif" font-weight="700" font-size="29">Spec Sentry</text>
+</svg>
