@@ -17,3 +17,6 @@ spec-sentry = "spec_sentry.__main__:main"
 
 [tool.setuptools.packages.find]
 include = ["spec_sentry*"]
+
+[tool.setuptools.package-data]
+"*" = ["web/*.css", "web/*.js", "assets/*.css", "assets/*.js", "*.css", "*.js", "*.json"]
