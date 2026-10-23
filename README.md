@@ -62,3 +62,7 @@ python -m unittest discover -s tests -v
 Report outputs cannot overwrite the specification or triage ledger. `decide` is the explicit ledger mutation command, and it refuses to replace its source report.
 
 See [verification coverage](docs/VERIFICATION.md) and [the design plan](docs/PLAN.md) for tested behavior and remaining limits.
+
+## License
+
+Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Anuj Sadani.
