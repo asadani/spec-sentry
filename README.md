@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Spec Sentry — Find ambiguity before it ships" width="400" height="160">
+</p>
+
 # Spec Sentry
 
 Spec Sentry reviews a small, explicit annotation grammar in a Markdown specification. It locates declared quantity conflicts, unresolved marked terms, conflicting definitions, pending decisions, and malformed known directives. Review decisions live in a separate fingerprinted ledger.
-
-![Spec Sentry logo](assets/logo.svg)
 
 ## Quickstart
 
